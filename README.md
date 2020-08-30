@@ -49,10 +49,13 @@ Here are some ideas to get you started:
 
 <br />
 
-### - Languages and Tools...
+<!-- ### - Languages and Tools... -->
 
 ### - 🔭 I’m currently working on ...
 The Digital Parent Mobile Application
+
+<br>
+
 https://mzaziapp.techwithmwando.com/
 
 <p align="center">
