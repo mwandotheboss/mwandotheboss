@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-<img src="https://firebasestorage.googleapis.com/v0/b/tech-with-mwando.appspot.com/o/Zephania%20Mwando%2F_MG_1747.JPG?alt=media&token=0b397281-7631-4429-b81e-93f3ac94b346" width="100%" height="300px">
+<img src="https://firebasestorage.googleapis.com/v0/b/tech-with-mwando.appspot.com/o/Zephania%20Mwando%2F_MG_1747.JPG?alt=media&token=0b397281-7631-4429-b81e-93f3ac94b346" width="500px" height="333px">
 
 <br />
 
@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 ### - Blog
 
 <a align="center" href="https://www.techwithmwando.blogspot.com">
-<img src="https://bit.ly/30XBkxt" width="50px" height="50px"> 
+<img src="https://firebasestorage.googleapis.com/v0/b/tech-with-mwando.appspot.com/o/twm-website-assets%2Ftech-with-mwando.jpg?alt=media&token=16b55478-7c7b-4443-a954-2d7e2d50eac4" width="50px" height="50px"> 
 </a>
 
 
