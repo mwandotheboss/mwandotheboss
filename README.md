@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-<img src="https://firebasestorage.googleapis.com/v0/b/tech-with-mwando.appspot.com/o/Zephania%20Mwando%2F_MG_1747.JPG?alt=media&token=0b397281-7631-4429-b81e-93f3ac94b346" width="500px" height="333px">
+<img src="https://firebasestorage.googleapis.com/v0/b/tech-with-mwando.appspot.com/o/Zephania%20Mwando%2F_MG_1747.JPG?alt=media&token=0b397281-7631-4429-b81e-93f3ac94b346" width="800px" height="532px" class="center">
 
 <br />
 
