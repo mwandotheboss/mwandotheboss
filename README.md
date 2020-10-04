@@ -52,11 +52,9 @@ Here are some ideas to get you started:
 <!-- ### - Languages and Tools... -->
 
 ### - 🔭 I’m currently working on ...
-The Digital Parent Mobile Application
 
-<br>
+<a href="https://parent.smartwareafrica.com/">The Digital Parent Mobile Application</a>
 
-https://parent.smartwareafrica.com/
 
 <p align="center">
 
