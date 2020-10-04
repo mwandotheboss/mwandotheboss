@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-<img src="https://firebasestorage.googleapis.com/v0/b/smartware-africa.appspot.com/o/Miscellaneous%20Files%20%2Fprofile.JPG?alt=media&token=2dc44610-c167-423b-80a7-bc33feec5b65" width="800px" height="903px" class="center">
+<img src="https://firebasestorage.googleapis.com/v0/b/smartware-africa.appspot.com/o/Miscellaneous%20Files%20%2Fprofile.JPG?alt=media&token=2dc44610-c167-423b-80a7-bc33feec5b65" width="500px" height="564px" class="center">
 
 <br />
 
@@ -72,10 +72,12 @@ https://parent.smartwareafrica.com/
 
 ### - Blog
 
-<a align="center" href="https://www.techwithmwando.blogspot.com">
-<img src="https://firebasestorage.googleapis.com/v0/b/tech-with-mwando.appspot.com/o/twm-website-assets%2Ftech-with-mwando.jpg?alt=media&token=16b55478-7c7b-4443-a954-2d7e2d50eac4" width="50px" height="50px"> 
+<a align="center" href="https://blog.smartwareafrica.com">
+<img src="https://firebasestorage.googleapis.com/v0/b/smartware-africa.appspot.com/o/Miscellaneous%20Files%20%2Flogo_.png?alt=media&token=891b6ee4-adb5-4536-afbe-bb283dc240e4" width="50px" height="50px"> 
 </a>
 
+### - Website
+<a href="https://smartwareafrica.com/">Smartware Afria</a>
 
 
 ***********************************
