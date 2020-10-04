@@ -77,7 +77,7 @@ https://parent.smartwareafrica.com/
 </a>
 
 ### - Website
-<a href="https://smartwareafrica.com/">Smartware Afria</a>
+<a href="https://smartwareafrica.com/">Smartware Africa</a>
 
 
 ***********************************
