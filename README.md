@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-<img src="https://firebasestorage.googleapis.com/v0/b/smartware-africa.appspot.com/o/Miscellaneous%20Files%20%2Fprofile.JPG?alt=media&token=2dc44610-c167-423b-80a7-bc33feec5b65" width="800px" height="532px" class="center">
+<img src="https://firebasestorage.googleapis.com/v0/b/smartware-africa.appspot.com/o/Miscellaneous%20Files%20%2Fprofile.JPG?alt=media&token=2dc44610-c167-423b-80a7-bc33feec5b65" width="1289px" height="1456px" class="center">
 
 <br />
 
