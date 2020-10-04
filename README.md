@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-<img src="https://firebasestorage.googleapis.com/v0/b/smartware-africa.appspot.com/o/Miscellaneous%20Files%20%2Fprofile.JPG?alt=media&token=2dc44610-c167-423b-80a7-bc33feec5b65" width="1289px" height="1456px" class="center">
+<img src="https://firebasestorage.googleapis.com/v0/b/smartware-africa.appspot.com/o/Miscellaneous%20Files%20%2Fprofile.JPG?alt=media&token=2dc44610-c167-423b-80a7-bc33feec5b65" width="800px" height="903px" class="center">
 
 <br />
 
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/zephaniamwand0" target="_blank">
   <img align="left" alt="Zephania Mwando | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/mwando/" target="_blank">
+<a href="https://www.linkedin.com/in/zephaniamwand0/" target="_blank">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
@@ -56,7 +56,7 @@ The Digital Parent Mobile Application
 
 <br>
 
-https://mzaziapp.techwithmwando.com/
+https://parent.smartwareafrica.com/
 
 <p align="center">
 
