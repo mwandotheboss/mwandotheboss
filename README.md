@@ -18,17 +18,11 @@
 
 </p>
 
-
-
 <h1 align="center">Howdy 👋, I'm Zephania Mwando</h1>
 <h3 align="center">An Enthusiast in Technology, a Technopreneur and a seasoned digital skills trainer.</h3>
 
 <h3 align="center"> I embrace technology in providing solutions that will make my life easy and improve the way of doing things.
 </h3>
-
-<br />
-
-*************
 
 <br />
 
@@ -151,9 +145,6 @@
 
 <br />
 
-### - Website
-<a href="https://smartwareafrica.com/">Smartware Africa</a>
-
-***********************************
+### <a href="https://smartwareafrica.com/">Smartware Africa</a> Official Website
 
 #### Change is inevitable. Embrace it!
