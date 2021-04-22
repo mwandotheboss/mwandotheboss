@@ -20,10 +20,11 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Zephania Mwando</h1>
+<h1 align="center">Howdy 👋, I'm Zephania Mwando</h1>
 <h3 align="center">An Enthusiast in Technology, a Technopreneur and a seasoned digital skills trainer.</h3>
 
-### I embrace technology in providing solutions that will make my life easy and improve the way of doing things.
+<h3 align="center"> I embrace technology in providing solutions that will make my life easy and improve the way of doing things.
+</h3>
 
 <br />
 
@@ -40,7 +41,7 @@
 - 🔭 I’m currently working on **The Digital Parent**
 
 
-- 🌱 I’m currently learning **Node.js, Angular**
+- 🌱 I’m currently learning **Kotlin, Flutter, Node.js and Angular**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mwandotheboss/](https://github.com/mwandotheboss/)
 
@@ -54,36 +55,38 @@
 
 - ⚡ Fun fact **I play FIFA and can make you sweat 😂😂**
 
-<h3 align="left">Connect with me:</h3>
+## Connect with me: 
 <p align="left">
-<a href="https://twitter.com/mwandotheboss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="mwandotheboss" height="30" width="40" />
-</a>
 
-<a href="https://linkedin.com/in/mwandotheboss" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="mwandotheboss" height="30" width="40" />
-</a>
-<a href="https://stackoverflow.com/users/10946813" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/stack-overflow.svg" alt="10946813" height="30" width="40" />
-</a>
-<a href="https://fb.com/mwandotheboss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="mwandotheboss" height="30" width="40" />
-</a>
-<a href="https://dribbble.com/mwandotheboss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/dribbble.svg" alt="mwandotheboss" height="30" width="40" />
-</a>
-<a href="https://medium.com/mwandotheboss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/medium.svg" alt="mwandotheboss" height="30" width="40" />
-</a>
+<!-- https://fb.com/mwandotheboss -->
+
+  <a href="mailto:zephaniamwando@gmail.com">
+    <img src="svg/social/gmail.svg" alt="gmail" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
+  <a href="https://www.instagram.com/mwandotheboss/">
+    <img src="svg/social/instagram.svg" alt="instagram" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
+  <a href="https://linkedin.com/in/mwandotheboss">
+    <img src="svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
+  </a>  
+ 
+  <a href="https://stackoverflow.com/users/10946813">
+    <img src="svg/social/stackoverflow.svg" alt="stackoverflow" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
+  <a href="https://telegram.me/mwandotheboss">
+    <img src="svg/social/telegram.svg" alt="telegram" style="vertical-align:top; margin:6px 4px">
+  </a>    
+  <a href="https://twitter.com/mwandotheboss">
+    <img src="svg/social/twitter.svg" alt="twitter" style="vertical-align:top; margin:6px 4px">
+  </a>    
+  <a href="https://wa.me/254712724949">
+    <img src="svg/social/whatsapp.svg" alt="whatsapp" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
 </p>
-
-
-###  zephaniamwando@gmail.com
-<a href="https://twitter.com/zephaniamwand0" target="_blank">
-  <img align="left" alt="Zephania Mwando | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/zephaniamwand0/" target="_blank">
-  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-
-<a href="https://www.instagram.com/zephaniamwand0/" target="_blank">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
