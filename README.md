@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-<img src="https://firebasestorage.googleapis.com/v0/b/smartware-africa.appspot.com/o/Miscellaneous%20Files%20%2Fprofile.JPG?alt=media&token=2dc44610-c167-423b-80a7-bc33feec5b65" width="500px" height="564px" class="center">
+<img src="https://firebasestorage.googleapis.com/v0/b/smartware-africa.appspot.com/o/Miscellaneous%20Files%20%2Fzephania-mwando.jpg?alt=media&token=7b64e911-c0e7-4d77-8218-ab4c53fda9b9" width="500px" height="564px" class="center">
 
 <br />
 
@@ -68,20 +68,6 @@ Here are some ideas to get you started:
 
 </p>
 
-### - Blog
-
-<a align="center" href="https://blog.smartwareafrica.com">
-<img src="https://firebasestorage.googleapis.com/v0/b/smartware-africa.appspot.com/o/Miscellaneous%20Files%20%2Flogo_.png?alt=media&token=891b6ee4-adb5-4536-afbe-bb283dc240e4" width="50px" height="50px"> 
-</a>
-
-### - Website
-<a href="https://smartwareafrica.com/">Smartware Africa</a>
-
-
-***********************************
-
-#### Change is inevitable. Embrace it!
-
 
 
 <h1 align="center">Hi 👋, I'm Zephania Mwando</h1>
@@ -128,3 +114,10 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mwandotheboss&" alt="mwandotheboss" /></p>
 
+### - Website
+<a href="https://smartwareafrica.com/">Smartware Africa</a>
+
+
+***********************************
+
+#### Change is inevitable. Embrace it!
