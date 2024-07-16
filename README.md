@@ -5,13 +5,12 @@
 <br />
 <!-- ### - Languages and Tools... -->
 
-
 <p align="center">
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 
 <!--
- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
+ <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/vue.svg" alt="vue" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/cloud.svg" alt="cloud" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/gcp.svg" alt="gcp" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 
 -->
@@ -32,35 +31,35 @@
 
 <p align="left"> <a href="https://twitter.com/mwandotheboss" target="blank"><img src="https://img.shields.io/twitter/follow/mwandotheboss?logo=twitter&style=for-the-badge" alt="mwandotheboss" /></a> </p>
 
-- 🔭 I’m currently working on **The Digital Parent**
+- 🔭 I’m currently working on **The Smart Parent**
 
-
-- 🌱 I’m currently learning **Kotlin, Flutter, Node.js and Angular**
+- 🌱 I’m currently learning **Kotlin, Flutter, Node.js and React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mwandotheboss/](https://github.com/mwandotheboss/)
 
 - 📝 I regularly write articles on [https://medium.com/@mwandotheboss](https://medium.com/@mwandotheboss)
 
-- 💬 Ask me about **Android Development**
+- 💬 Ask me about **Tech, Business development and Enterprise solutions**
 
-- 📫 How to reach me **zephaniamwando@gmail.com**
+- 📫 How to reach me **hello@mwando.co.ke** and **zephaniamwando@gmail.com**
 
-- 📄 Know about my experiences [https://mwando.smartwareafrica.com/](https://mwando.smartwareafrica.com/)
+- 📄 Know about my experiences [https://mwando.co.ke/](https://mwando.co.ke/)
 
 - ⚡ Fun fact **I play FIFA and can make you sweat 😂😂**
 
-## Connect with me: 
+## Connect with me:
+
 <p align="left">
 
 <!-- https://fb.com/mwandotheboss -->
 
   <a href="mailto:zephaniamwando@gmail.com">
     <img src="svg/social/gmail.svg" alt="gmail" style="vertical-align:top; margin:6px 4px">
-  </a>  
+  </a>
 
   <a href="https://www.instagram.com/mwandotheboss/">
     <img src="svg/social/instagram.svg" alt="instagram" style="vertical-align:top; margin:6px 4px">
-  </a>  
+  </a>
 
   <a href="https://linkedin.com/in/mwandotheboss">
     <img src="svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
@@ -68,17 +67,17 @@
  
   <a href="https://stackoverflow.com/users/10946813">
     <img src="svg/social/stackoverflow.svg" alt="stackoverflow" style="vertical-align:top; margin:6px 4px">
-  </a>  
+  </a>
 
   <a href="https://telegram.me/mwandotheboss">
     <img src="svg/social/telegram.svg" alt="telegram" style="vertical-align:top; margin:6px 4px">
   </a>    
   <a href="https://twitter.com/mwandotheboss">
-    <img src="svg/social/twitter.svg" alt="twitter" style="vertical-align:top; margin:6px 4px">
+    <img src="svg/social/x-2.svg" alt="twitter" style="vertical-align:top; margin:6px 4px">
   </a>    
   <a href="https://wa.me/254712724949">
     <img src="svg/social/whatsapp.svg" alt="whatsapp" style="vertical-align:top; margin:6px 4px">
-  </a>  
+  </a>
 
 </p>
 
@@ -97,42 +96,37 @@
 <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 </a> 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-</a> 
-<a href="https://jasmine.github.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> 
-</a> 
-<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-</a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://karma-runner.github.io/latest/index.html" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/karma.svg" alt="karma" width="40" height="40"/> 
-</a> 
-<a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> 
-</a> 
-<a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> 
-</a> 
-<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-</a> 
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-</a> 
-<a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> 
-</a> 
-<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
- </a>
-  <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
- </a>
-  <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-   </a> 
-   <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-   </a> 
-   <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-   <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> 
-   </a> 
-   <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> 
-   </a> 
-   </p>
+</a>
 
+<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+</a>
+<a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
+</a>
+<a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
+</a>
+<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+</a>
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+</a>
+<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+</a>
+<a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
+</a>
+<a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
+</a>
+<a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+</a>
+<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+<a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/>
+</a>
+<a href="https://react.dev/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="xd" width="40" height="40"/>
+</a>
+
+   </p>
 
 ### - 🔭 I’m currently working on ...
 
-<a href="https://parent.smartwareafrica.com/">The Digital Parent Mobile Application</a>
+<a href="https://play.google.com/store/apps/details?id=com.smartwareafrica.parent&hl=en_US">The Smart Parent Mobile Application</a>
 
 <br />
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mwandotheboss&show_icons=true&locale=en&layout=compact" alt="mwandotheboss" /></p>
@@ -145,6 +139,6 @@
 
 <br />
 
-### <a href="https://smartwareafrica.com/">Smartware Africa</a> Official Website
+### <a href="https://smartware.africa/">Smartware Africa Technologies</a> Official Website
 
 #### Change is inevitable. Embrace it!
