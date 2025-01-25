@@ -135,7 +135,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mwandotheboss&show_icons=true&locale=en" alt="mwandotheboss" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mwandotheboss&" alt="mwandotheboss" /></p>
+<p><img align="center" src="https://camo.githubusercontent.com/30dafee21895e612d6b9c78e1004d11b77de56e8a518c1e8fc50518b47d99b35/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6d77616e646f746865626f737326" alt="mwandotheboss" /></p>
 
 <br />
 
