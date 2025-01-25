@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://firebasestorage.googleapis.com/v0/b/smartware-africa.appspot.com/o/Miscellaneous%20Files%20%2Fzephania-mwando-smaller.jpg?alt=media&token=da936b9f-5ea7-43da-99d2-5e0b65c58df1" max-width="800px" max-height="400px" class="center">
+<img src="https://mwando.co.ke/wp-content/uploads/2023/11/profile-pic.jpg" max-width="800px" max-height="400px" class="center">
 
 <br />
 <!-- ### - Languages and Tools... -->
