@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://mwando.co.ke/wp-content/uploads/2023/11/profile-pic.jpg" max-width="200px" max-height="100px" class="center">
+<img src="https://mwando.co.ke/wp-content/uploads/2023/11/profile-pic.jpg" max-width="100px" max-height="50px" class="center">
 
 <br />
 <!-- ### - Languages and Tools... -->
