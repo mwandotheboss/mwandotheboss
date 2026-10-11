@@ -1,144 +1,115 @@
-### Hi there 👋
+<div align="center">
 
-<img src="https://mwando.co.ke/wp-content/uploads/2023/11/profile-pic.jpg" max-width="100px" max-height="50px" class="center">
+<a href="https://mwando.ke/">
+  <img src="https://mwando.ke/_next/image?url=%2Fimages%2Fprofile.jpg&w=384&q=75" alt="Zephania Mwando" width="150" />
+</a>
 
-<br />
-<!-- ### - Languages and Tools... -->
+# Hi 👋, I'm Zephania Mwando
+
+<a href="https://mwando.ke/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=0E75B6&center=true&vCenter=true&width=640&lines=CCTV+%26+Security+Systems+Expert;Technical+Support+Engineer+%40+HIKVISION+Kenya;Technopreneur+%26+Software+Developer;Digital+Skills+Trainer" alt="CCTV & Security Systems Expert · Technical Support Engineer @ HIKVISION Kenya · Technopreneur & Software Developer · Digital Skills Trainer" />
+</a>
+
+<p>
+  <a href="https://mwando.ke/"><img src="https://img.shields.io/badge/Website-mwando.ke-0E75B6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="https://mwando.ke/blog"><img src="https://img.shields.io/badge/Blog-Read-FF5722?style=for-the-badge&logo=rss&logoColor=white" alt="Blog" /></a>
+  <a href="mailto:hello@mwando.ke"><img src="https://img.shields.io/badge/Email-hello%40mwando.ke-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://wa.me/254117155555"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=mwandotheboss&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+
+</div>
+
+## 🚀 About me
+
+I'm a **CCTV, Security Systems and AV Solutions expert** based in Nairobi, Kenya, currently a **Technical Support Engineer at HIKVISION Kenya**. I'm also a technopreneur and software developer at heart, always exploring where security tech meets emerging technology.
+
+- 🔭 Working on **The Digital Parent**, an Android app built with Kotlin and Firebase
+- 🛡️ Specialising in **video surveillance, access control, network security and system integration**
+- 🎓 Training system integrators and security teams, and a former **Google Digital Skills for Africa** trainer
+- 🌱 Learning **Kotlin, Flutter, Node.js and React**
+- 💬 Ask me about **security technology, business development and enterprise solutions**
+- 📝 I write technical guides and product breakdowns on [mwando.ke/blog](https://mwando.ke/blog)
+- ⚡ Fun fact: **I play FIFA and can make you sweat 😂**
+
+<div align="center">
+
+| 8+ | 800+ | 80+ | 2000+ |
+| :---: | :---: | :---: | :---: |
+| Years of experience | Training sessions | Major projects | Customers trained |
+
+</div>
+
+## 💼 Experience
+
+| Period | Role | Company |
+| :--- | :--- | :--- |
+| Oct 2025 – Present | Technical Support Engineer | HIKVISION Kenya |
+| Mar 2025 – Sep 2025 | Solution Manager | Dahua Technology Kenya |
+| Sep 2024 – Feb 2025 | Senior Project Engineer | Dahua Technology Kenya |
+| Jan 2022 – Nov 2024 | Pre-Sales Engineer | Dahua Technology Kenya |
+| Jun 2021 – Jan 2022 | Mentor, Associate Android Developer | Andela |
+
+Full résumé at [mwando.ke/#resume](https://mwando.ke/#resume).
+
+## 🛠️ Languages and tools
 
 <p align="center">
-
-<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-
-<!--
- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/vue.svg" alt="vue" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/cloud.svg" alt="cloud" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/gcp.svg" alt="gcp" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
-
--->
-
+  <img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,flutter,dart,react,ts,js,nodejs,html,css,bootstrap,wordpress&perline=13" alt="Java, Kotlin, Android, Flutter, Dart, React, TypeScript, JavaScript, Node.js, HTML, CSS, Bootstrap, WordPress" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=firebase,mysql,postgres,aws,azure,gcp,docker,kubernetes,linux,git,postman,figma,ps&perline=13" alt="Firebase, MySQL, PostgreSQL, AWS, Azure, Google Cloud, Docker, Kubernetes, Linux, Git, Postman, Figma, Photoshop" />
 </p>
 
-<h1 align="center">Howdy 👋, I'm Zephania Mwando</h1>
-<h3 align="center">An Enthusiast in Technology, a Technopreneur and a seasoned digital skills trainer.</h3>
+## 📌 Featured projects
 
-<h3 align="center"> I embrace technology in providing solutions that will make my life easy and improve the way of doing things.
-</h3>
+| Project | What it is |
+| :--- | :--- |
+| [Smartware Africa Technologies](https://smartware.africa/) | Tech company and technology partner for businesses |
+| The Digital Parent | Android app built with Kotlin and Firebase |
+| [SokoBure Marketplace](https://sokobure.co.ke/) | Online shopping marketplace |
+| SMSSCAPE | SMS message printing tool |
+| Arculens | Photography brand |
 
-<br />
+More at [mwando.ke/#portfolio](https://mwando.ke/#portfolio) and on [GitHub](https://github.com/mwandotheboss?tab=repositories).
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mwandotheboss&label=Profile%20views&color=0e75b6&style=flat" alt="mwandotheboss" /> </p>
+## 📊 GitHub stats
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mwandotheboss" alt="mwandotheboss" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/mwandotheboss" target="blank"><img src="https://img.shields.io/twitter/follow/mwandotheboss?logo=twitter&style=for-the-badge" alt="mwandotheboss" /></a> </p>
-
-- 🔭 I’m currently working on **The Smart Parent**
-
-- 🌱 I’m currently learning **Kotlin, Flutter, Node.js and React**
-
-- 👨‍💻 All of my projects are available at [https://github.com/mwandotheboss/](https://github.com/mwandotheboss/)
-
-- 📝 I regularly write articles on [https://medium.com/@mwandotheboss](https://medium.com/@mwandotheboss)
-
-- 💬 Ask me about **Tech, Business development and Enterprise solutions**
-
-- 📫 How to reach me **hello@mwando.co.ke** and **zephaniamwando@gmail.com**
-
-- 📄 Know about my experiences [https://mwando.co.ke/](https://mwando.co.ke/)
-
-- ⚡ Fun fact **I play FIFA and can make you sweat 😂😂**
-
-## Connect with me:
-
-<p align="left">
-
-<!-- https://fb.com/mwandotheboss -->
-
-  <a href="mailto:zephaniamwando@gmail.com">
-    <img src="svg/social/gmail.svg" alt="gmail" style="vertical-align:top; margin:6px 4px">
-  </a>
-
-  <a href="https://www.instagram.com/mwandotheboss/">
-    <img src="svg/social/instagram.svg" alt="instagram" style="vertical-align:top; margin:6px 4px">
-  </a>
-
-  <a href="https://linkedin.com/in/mwandotheboss">
-    <img src="svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
-  </a>  
- 
-  <a href="https://stackoverflow.com/users/10946813">
-    <img src="svg/social/stackoverflow.svg" alt="stackoverflow" style="vertical-align:top; margin:6px 4px">
-  </a>
-
-  <a href="https://telegram.me/mwandotheboss">
-    <img src="svg/social/telegram.svg" alt="telegram" style="vertical-align:top; margin:6px 4px">
-  </a>    
-  <a href="https://twitter.com/mwandotheboss">
-    <img src="svg/social/x-2.svg" alt="twitter" style="vertical-align:top; margin:6px 4px">
-  </a>    
-  <a href="https://wa.me/254712724949">
-    <img src="svg/social/whatsapp.svg" alt="whatsapp" style="vertical-align:top; margin:6px 4px">
-  </a>
-
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mwandotheboss&show_icons=true&locale=en&hide_border=true&theme=tokyonight" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=mwandotheboss&show_icons=true&locale=en&hide_border=true" alt="Zephania's GitHub stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=mwandotheboss&locale=en&layout=compact&hide_border=true&theme=tokyonight" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=mwandotheboss&locale=en&layout=compact&hide_border=true" alt="Zephania's most used languages" />
+  </picture>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://aws.amazon.com/amplify/" target="_blank"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> 
-</a> 
-<a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
-</a> 
-<a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
-</a> 
-<a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
-</a>
- <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
-</a> 
-<a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-</a> 
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-</a>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=mwandotheboss&hide_border=true&theme=tokyonight" />
+    <img src="https://streak-stats.demolab.com/?user=mwandotheboss&hide_border=true" alt="Zephania's GitHub streak" />
+  </picture>
+</p>
 
-<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-</a>
-<a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
-</a>
-<a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-</a>
-<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-</a>
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-</a>
-<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-</a>
-<a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
-</a>
-<a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-</a>
-<a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-</a>
-<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-<a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/>
-</a>
-<a href="https://react.dev/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="xd" width="40" height="40"/>
-</a>
+## 🤝 Connect with me
 
-   </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mwandotheboss"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/mwandotheboss"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://youtube.com/@mwandotheboss"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://www.instagram.com/mwandotheboss"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.tiktok.com/@mwandotheboss"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
+  <a href="https://www.facebook.com/mwandotheboss/"><img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://t.me/mwandotheboss"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://stackoverflow.com/users/10946813"><img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
+</p>
 
-### - 🔭 I’m currently working on ...
+<p align="center">
+  📫 <a href="mailto:hello@mwando.ke">hello@mwando.ke</a> · 📞 <a href="tel:+254117155555">+254 117 155 555</a> · 📍 Nairobi, Kenya
+</p>
 
-<a href="https://play.google.com/store/apps/details?id=com.smartwareafrica.parent&hl=en_US">The Smart Parent Mobile Application</a>
+---
 
-<br />
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mwandotheboss&show_icons=true&locale=en&layout=compact" alt="mwandotheboss" /></p>
-
-<br />
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mwandotheboss&show_icons=true&locale=en" alt="mwandotheboss" /></p>
-
-<p><img align="center" src="https://camo.githubusercontent.com/30dafee21895e612d6b9c78e1004d11b77de56e8a518c1e8fc50518b47d99b35/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6d77616e646f746865626f737326" alt="mwandotheboss" /></p>
-
-<br />
-
-### <a href="https://smartware.africa/">Smartware Africa Technologies</a> Official Website
-
-#### Change is inevitable. Embrace it!
+<p align="center"><em>Change is inevitable. Embrace it!</em></p>
