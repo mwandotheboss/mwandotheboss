@@ -32,7 +32,7 @@
 
 I'm a **CCTV, Security Systems and AV Solutions expert** based in Nairobi, Kenya, currently a **Technical Support Engineer at HIKVISION Kenya**. I'm also a technopreneur and software developer at heart, always exploring where security tech meets emerging technology.
 
-- 🔭 Working on **The Digital Parent**, an Android app built with Kotlin and Firebase
+- 🔭 Working on **The Smart Parent**, an Android app built with Kotlin and Firebase
 - 🛡️ Specialising in **video surveillance, access control, network security and system integration**
 - 🎓 Training system integrators and security teams, and a former **Google Digital Skills for Africa** trainer
 - 🌱 Learning **Kotlin, Flutter, Node.js and React**
@@ -162,62 +162,24 @@ Full résumé at [mwando.ke/#resume](https://mwando.ke/#resume).
 
 ## 🛠️ Languages and tools
 
-<table>
-  <tr>
-    <th width="220" align="left">Area</th>
-    <th width="820" align="left">What I use</th>
-  </tr>
-  <tr>
-    <td><b>Languages</b></td>
-    <td>
-      <p><img src="https://skillicons.dev/icons?i=java,kotlin,dart,js,ts,php,html,css" alt="Languages" height="40" /></p>
-      Java · Kotlin · Dart · JavaScript · TypeScript · PHP · HTML5 · CSS3
-    </td>
-  </tr>
-  <tr>
-    <td><b>Mobile</b></td>
-    <td>
-      <p><img src="https://skillicons.dev/icons?i=androidstudio,flutter,firebase,sqlite" alt="Mobile" height="40" /></p>
-      Android · Flutter · Firebase · SQLite · Retrofit · Volley · Glide · Google Maps SDK
-    </td>
-  </tr>
-  <tr>
-    <td><b>Web and backend</b></td>
-    <td>
-      <p><img src="https://skillicons.dev/icons?i=react,angular,nodejs,express,sequelize,bootstrap,wordpress" alt="Web and backend" height="40" /></p>
-      React · Angular · Node.js · Express · Sequelize · Bootstrap · WordPress · REST APIs · MQTT
-    </td>
-  </tr>
-  <tr>
-    <td><b>Databases</b></td>
-    <td>
-      <p><img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" alt="Databases" height="40" /></p>
-      MySQL · PostgreSQL · SQLite · Oracle
-    </td>
-  </tr>
-  <tr>
-    <td><b>Cloud and infrastructure</b></td>
-    <td>
-      <p><img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,githubactions,linux,ubuntu,windows" alt="Cloud and infrastructure" height="40" /></p>
-      AWS · Azure · Google Cloud · Docker · Kubernetes · GitHub Actions · Linux · Ubuntu · Windows Server
-    </td>
-  </tr>
-  <tr>
-    <td><b>Tools and design</b></td>
-    <td>
-      <p><img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,xd,ps,ai,pr" alt="Tools and design" height="40" /></p>
-      Git · GitHub · Postman · VS Code · Figma · Adobe XD · Photoshop · Illustrator · Premiere Pro
-    </td>
-  </tr>
-  <tr>
-    <td><b>Systems and networking</b></td>
-    <td>Operating system deployment · Virtual machines and virtualisation · Windows Server · Linux (Ubuntu, CentOS) · Active Directory · LAN/WAN/VLAN design · VPNs · Firewall configuration · Network security</td>
-  </tr>
-  <tr>
-    <td><b>Security systems</b></td>
-    <td>CCTV and video surveillance · ANPR · Access control · Video intercom · Intrusion alarms · Smart parking · HikCentral · Dahua DSS</td>
-  </tr>
-</table>
+<p align="center">
+  <img src="assets/tech.svg" alt="Languages: Java, Kotlin, Dart, JavaScript, TypeScript, PHP, HTML5, CSS3. Mobile: Android, Flutter, Firebase, SQLite, Google Maps SDK. Web and backend: React, Angular, Node.js, Express, Sequelize, Bootstrap, WordPress, REST APIs, MQTT. Databases: MySQL, PostgreSQL, SQLite, Oracle. Cloud and infrastructure: AWS, Azure, Google Cloud, Docker, Kubernetes, GitHub Actions. Tools and design: Git, GitHub, Postman, VS Code, Figma, Adobe XD, Photoshop, Illustrator, Premiere Pro. Systems and networking: Operating system deployment, Virtual machines and virtualisation, Windows Server, Linux, Ubuntu, CentOS, Active Directory, LAN/WAN/VLAN design, VPNs, Firewall configuration, Network security. Security systems: CCTV and video surveillance, ANPR, Access control, Video intercom, Intrusion alarms, Smart parking, HikCentral, Dahua DSS." width="100%" />
+</p>
+
+<details>
+<summary><b>Text version</b></summary>
+<br />
+
+- **Languages:** Java · Kotlin · Dart · JavaScript · TypeScript · PHP · HTML5 · CSS3
+- **Mobile:** Android · Flutter · Firebase · SQLite · Google Maps SDK
+- **Web and backend:** React · Angular · Node.js · Express · Sequelize · Bootstrap · WordPress · REST APIs · MQTT
+- **Databases:** MySQL · PostgreSQL · SQLite · Oracle
+- **Cloud and infrastructure:** AWS · Azure · Google Cloud · Docker · Kubernetes · GitHub Actions
+- **Tools and design:** Git · GitHub · Postman · VS Code · Figma · Adobe XD · Photoshop · Illustrator · Premiere Pro
+- **Systems and networking:** Operating system deployment · Virtual machines and virtualisation · Windows Server · Linux · Ubuntu · CentOS · Active Directory · LAN/WAN/VLAN design · VPNs · Firewall configuration · Network security
+- **Security systems:** CCTV and video surveillance · ANPR · Access control · Video intercom · Intrusion alarms · Smart parking · HikCentral · Dahua DSS
+
+</details>
 
 ## 📌 Featured projects
 
@@ -231,7 +193,7 @@ Full résumé at [mwando.ke/#resume](https://mwando.ke/#resume).
     <td>Tech company and technology partner for businesses</td>
   </tr>
   <tr>
-    <td><b>The Digital Parent</b></td>
+    <td><b>The Smart Parent</b></td>
     <td>Android app built with Kotlin and Firebase</td>
   </tr>
   <tr>
@@ -324,7 +286,7 @@ See all repositories on [GitHub](https://github.com/mwandotheboss?tab=repositori
   <a href="https://www.tiktok.com/@mwandotheboss"><img src="assets/badges/tiktok.svg" alt="TikTok" /></a>
   <a href="https://www.facebook.com/mwandotheboss/"><img src="assets/badges/facebook.svg" alt="Facebook" /></a>
   <a href="https://t.me/mwandotheboss"><img src="assets/badges/telegram.svg" alt="Telegram" /></a>
-  <a href="https://stackoverflow.com/users/10946813"><img src="assets/badges/stackoverflow.svg" alt="Stack Overflow" /></a>
+  <a href="https://stackoverflow.com/users/10946813/zephania-mwando"><img src="assets/badges/stackoverflow.svg" alt="Stack Overflow" /></a>
 </p>
 
 <p align="center">
