@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="190" viewBox="0 0 1280 190" role="img" aria-label="8+ years of experience, 800+ training sessions, 80+ major projects, 2000+ customers trained">
+  <title>8+ years of experience, 800+ training sessions, 80+ major projects, 2000+ customers trained</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#040b2a"/>
+      <stop offset="0.5" stop-color="#081a55"/>
+      <stop offset="1" stop-color="#0b2775"/>
+    </linearGradient>
+    <linearGradient id="num" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#7cc4ff"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38bdf8"/>
+      <stop offset="1" stop-color="#0e75b6"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="190" rx="18" fill="url(#bg)"/>
+  <g stroke="#ffffff" stroke-opacity="0.14" stroke-width="2">
+    <line x1="320" y1="42" x2="320" y2="148"/>
+    <line x1="640" y1="42" x2="640" y2="148"/>
+    <line x1="960" y1="42" x2="960" y2="148"/>
+  </g>
+  <g font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" text-anchor="middle">
+    <g font-size="64" font-weight="700" fill="url(#num)">
+      <text x="160" y="96">8+</text>
+      <text x="480" y="96">800+</text>
+      <text x="800" y="96">80+</text>
+      <text x="1120" y="96">2000+</text>
+    </g>
+    <g fill="url(#bar)">
+      <rect x="136" y="114" width="48" height="4" rx="2"/>
+      <rect x="456" y="114" width="48" height="4" rx="2"/>
+      <rect x="776" y="114" width="48" height="4" rx="2"/>
+      <rect x="1096" y="114" width="48" height="4" rx="2"/>
+    </g>
+    <g font-size="22" font-weight="600" fill="#b4c4ea" letter-spacing="0.5">
+      <text x="160" y="152">Years of experience</text>
+      <text x="480" y="152">Training sessions</text>
+      <text x="800" y="152">Major projects</text>
+      <text x="1120" y="152">Customers trained</text>
+    </g>
+  </g>
+</svg>
