@@ -1,20 +1,18 @@
 <div align="center">
 
 <a href="https://mwando.ke/">
-  <img src="https://mwando.ke/_next/image?url=%2Fimages%2Fprofile.jpg&w=384&q=75" alt="Zephania Mwando" width="150" />
+  <img src="assets/cover.jpg" alt="Zephania Mwando, CCTV and Security Systems Expert. Technical Support Engineer at HIKVISION Kenya, technopreneur and trainer, based in Nairobi, Kenya." width="100%" />
 </a>
 
-# Hi 👋, I'm Zephania Mwando
-
 <a href="https://mwando.ke/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=0E75B6&center=true&vCenter=true&width=640&lines=CCTV+%26+Security+Systems+Expert;Technical+Support+Engineer+%40+HIKVISION+Kenya;Technopreneur+%26+Software+Developer;Digital+Skills+Trainer" alt="CCTV & Security Systems Expert · Technical Support Engineer @ HIKVISION Kenya · Technopreneur & Software Developer · Digital Skills Trainer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=0E75B6&center=true&vCenter=true&width=640&lines=Zephania+is+a+mouthful...;You+can+call+me+Zeph+%F0%9F%98%89;Where+security+tech+meets+software;Building+with+Kotlin%2C+Flutter%2C+React+and+Node.js" alt="Zephania is a mouthful... You can call me Zeph. Where security tech meets software. Building with Kotlin, Flutter, React and Node.js." />
 </a>
 
 <p>
-  <a href="https://mwando.ke/"><img src="https://img.shields.io/badge/Website-mwando.ke-0E75B6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
-  <a href="https://mwando.ke/blog"><img src="https://img.shields.io/badge/Blog-Read-FF5722?style=for-the-badge&logo=rss&logoColor=white" alt="Blog" /></a>
-  <a href="mailto:hello@mwando.ke"><img src="https://img.shields.io/badge/Email-hello%40mwando.ke-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://wa.me/254117155555"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <a href="https://mwando.ke/"><img src="assets/badges/website.svg" alt="Website" /></a>
+  <a href="https://mwando.ke/blog"><img src="assets/badges/blog.svg" alt="Blog" /></a>
+  <a href="mailto:hello@mwando.ke"><img src="assets/badges/email.svg" alt="Email" /></a>
+  <a href="https://wa.me/254117155555"><img src="assets/badges/whatsapp.svg" alt="WhatsApp" /></a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=mwandotheboss&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -22,6 +20,8 @@
 </div>
 
 ## 🚀 About me
+
+> 👋 **Zephania** on my certificates, **Zeph** everywhere else. You can call me Zeph.
 
 I'm a **CCTV, Security Systems and AV Solutions expert** based in Nairobi, Kenya, currently a **Technical Support Engineer at HIKVISION Kenya**. I'm also a technopreneur and software developer at heart, always exploring where security tech meets emerging technology.
 
@@ -43,13 +43,20 @@ I'm a **CCTV, Security Systems and AV Solutions expert** based in Nairobi, Kenya
 
 ## 💼 Experience
 
-| Period | Role | Company |
-| :--- | :--- | :--- |
-| Oct 2025 – Present | Technical Support Engineer | HIKVISION Kenya |
-| Mar 2025 – Sep 2025 | Solution Manager | Dahua Technology Kenya |
-| Sep 2024 – Feb 2025 | Senior Project Engineer | Dahua Technology Kenya |
-| Jan 2022 – Nov 2024 | Pre-Sales Engineer | Dahua Technology Kenya |
-| Jun 2021 – Jan 2022 | Mentor, Associate Android Developer | Andela |
+| Period | Role | Company | Highlights |
+| :--- | :--- | :--- | :--- |
+| Oct 2025 – Present | **Technical Support Engineer** | HIKVISION Kenya | Leading testing, commissioning and technical support for advanced surveillance and security systems |
+| Mar 2025 – Sep 2025 | **Solution Manager** | Dahua Technology Kenya | Led regional strategy for AI-driven surveillance, ANPR, access control and smart-parking systems across Kenya, Uganda, Tanzania, Rwanda and Burundi; certified 150+ professionals on Dahua DSS, IVS and ANPR |
+| Sep 2024 – Feb 2025 | **Senior Project Engineer** | Dahua Technology Kenya | |
+| Jan 2022 – Nov 2024 | **Pre-Sales Engineer** | Dahua Technology Kenya | Solution architecture, proposals and technical support for Dahua security systems across Kenya |
+| Oct 2021 – Dec 2021 | **Solutions Assistant Engineer** | Dahua Technology Kenya | |
+| Jun 2021 – Jan 2022 | **Mentor, Associate Android Developer** (part-time) | Andela | |
+| Jul 2021 – Oct 2021 | **Chief Technical Officer (CTO)** | Imax Technologies Limited, official Dahua Technology distributor | Security systems, video intercom, alarm and access control installation and maintenance |
+| Jan 2020 – Jun 2021 | **Service Delivery Executive** | OpenBusiness Africa | |
+| Aug 2019 – Dec 2019 | **Intern** | Openworld Kenya LTD | Google Digital Skills for Africa trainer; trained 895 trainees |
+| Dec 2018 – May 2019 | **Marketing Assistant** | Hasbah Kenya Limited | |
+
+🎓 **Bachelor of Technology in Communication and Computer Networks**, Technical University of Kenya
 
 Full résumé at [mwando.ke/#resume](https://mwando.ke/#resume).
 
@@ -77,8 +84,8 @@ More at [mwando.ke/#portfolio](https://mwando.ke/#portfolio) and on [GitHub](htt
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mwandotheboss&show_icons=true&locale=en&hide_border=true&theme=tokyonight" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=mwandotheboss&show_icons=true&locale=en&hide_border=true" alt="Zephania's GitHub stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mwandotheboss&show_icons=true&hide_rank=true&locale=en&hide_border=true&theme=tokyonight" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=mwandotheboss&show_icons=true&hide_rank=true&locale=en&hide_border=true" alt="Zephania's GitHub stats" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=mwandotheboss&locale=en&layout=compact&hide_border=true&theme=tokyonight" />
@@ -96,14 +103,14 @@ More at [mwando.ke/#portfolio](https://mwando.ke/#portfolio) and on [GitHub](htt
 ## 🤝 Connect with me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mwandotheboss"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://x.com/mwandotheboss"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://youtube.com/@mwandotheboss"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
-  <a href="https://www.instagram.com/mwandotheboss"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://www.tiktok.com/@mwandotheboss"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
-  <a href="https://www.facebook.com/mwandotheboss/"><img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="https://t.me/mwandotheboss"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-  <a href="https://stackoverflow.com/users/10946813"><img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
+  <a href="https://www.linkedin.com/in/mwandotheboss"><img src="assets/badges/linkedin.svg" alt="LinkedIn" /></a>
+  <a href="https://x.com/mwandotheboss"><img src="assets/badges/x.svg" alt="X" /></a>
+  <a href="https://youtube.com/@mwandotheboss"><img src="assets/badges/youtube.svg" alt="YouTube" /></a>
+  <a href="https://www.instagram.com/mwandotheboss"><img src="assets/badges/instagram.svg" alt="Instagram" /></a>
+  <a href="https://www.tiktok.com/@mwandotheboss"><img src="assets/badges/tiktok.svg" alt="TikTok" /></a>
+  <a href="https://www.facebook.com/mwandotheboss/"><img src="assets/badges/facebook.svg" alt="Facebook" /></a>
+  <a href="https://t.me/mwandotheboss"><img src="assets/badges/telegram.svg" alt="Telegram" /></a>
+  <a href="https://stackoverflow.com/users/10946813"><img src="assets/badges/stackoverflow.svg" alt="Stack Overflow" /></a>
 </p>
 
 <p align="center">
