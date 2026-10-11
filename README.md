@@ -210,8 +210,12 @@ Full résumé at [mwando.ke/#resume](https://mwando.ke/#resume).
     </td>
   </tr>
   <tr>
+    <td><b>Systems and networking</b></td>
+    <td>Operating system deployment · Virtual machines and virtualisation · Windows Server · Linux (Ubuntu, CentOS) · Active Directory · LAN/WAN/VLAN design · VPNs · Firewall configuration · Network security</td>
+  </tr>
+  <tr>
     <td><b>Security systems</b></td>
-    <td>CCTV and video surveillance · ANPR · Access control · Video intercom · Intrusion alarms · Smart parking · HikCentral · Dahua DSS · LAN/WAN/VLAN, VPN and firewall configuration</td>
+    <td>CCTV and video surveillance · ANPR · Access control · Video intercom · Intrusion alarms · Smart parking · HikCentral · Dahua DSS</td>
   </tr>
 </table>
 
