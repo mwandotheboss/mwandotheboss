@@ -266,14 +266,8 @@ See all repositories on [GitHub](https://github.com/mwandotheboss?tab=repositori
 ## 📊 GitHub stats
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mwandotheboss&show_icons=true&hide_rank=true&locale=en&hide_border=true&card_width=500&theme=tokyonight" />
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mwandotheboss&show_icons=true&hide_rank=true&locale=en&hide_border=true&card_width=500" alt="Zephania's GitHub stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=mwandotheboss&locale=en&layout=compact&langs_count=8&hide=cmake,c%2B%2B,c,swift,objective-c&hide_border=true&card_width=500&theme=tokyonight" />
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mwandotheboss&locale=en&layout=compact&langs_count=8&hide=cmake,c%2B%2B,c,swift,objective-c&hide_border=true&card_width=500" alt="Zephania's most used languages" />
-  </picture>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mwandotheboss&show_icons=true&hide_rank=true&locale=en&line_height=24&hide_border=true&card_width=500&bg_color=0,040b2a,081a55,0b2775&title_color=7cc4ff&text_color=dbe6ff&icon_color=38bdf8" alt="Zephania's GitHub stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mwandotheboss&locale=en&layout=compact&langs_count=8&hide=cmake,c%2B%2B,c,swift,objective-c&hide_border=true&card_width=500&bg_color=0,040b2a,081a55,0b2775&title_color=7cc4ff&text_color=dbe6ff&icon_color=38bdf8" alt="Zephania's most used languages" />
 </p>
 
 ## 🤝 Connect with me
