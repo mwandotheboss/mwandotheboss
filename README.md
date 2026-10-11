@@ -15,9 +15,16 @@
   <a href="https://wa.me/254117155555"><img src="assets/badges/whatsapp.svg" alt="WhatsApp" /></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=mwandotheboss&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+<img src="https://hits.sh/github.com/mwandotheboss.svg?label=Profile%20views&color=0e75b6" alt="Profile views" />
 
 </div>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=mwandotheboss&hide_border=true&card_width=860&theme=tokyonight" />
+    <img src="https://streak-stats.demolab.com/?user=mwandotheboss&hide_border=true&card_width=860" alt="Zephania's GitHub contributions and streak" width="100%" />
+  </picture>
+</p>
 
 ## 🚀 About me
 
@@ -155,11 +162,58 @@ Full résumé at [mwando.ke/#resume](https://mwando.ke/#resume).
 
 ## 🛠️ Languages and tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,flutter,dart,react,ts,js,nodejs,html,css,bootstrap,wordpress&perline=13" alt="Java, Kotlin, Android, Flutter, Dart, React, TypeScript, JavaScript, Node.js, HTML, CSS, Bootstrap, WordPress" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=firebase,mysql,postgres,aws,azure,gcp,docker,kubernetes,linux,git,postman,figma,ps&perline=13" alt="Firebase, MySQL, PostgreSQL, AWS, Azure, Google Cloud, Docker, Kubernetes, Linux, Git, Postman, Figma, Photoshop" />
-</p>
+<table>
+  <tr>
+    <th width="220" align="left">Area</th>
+    <th width="820" align="left">What I use</th>
+  </tr>
+  <tr>
+    <td><b>Languages</b></td>
+    <td>
+      <p><img src="https://skillicons.dev/icons?i=java,kotlin,dart,js,ts,php,html,css" alt="Languages" height="40" /></p>
+      Java · Kotlin · Dart · JavaScript · TypeScript · PHP · HTML5 · CSS3
+    </td>
+  </tr>
+  <tr>
+    <td><b>Mobile</b></td>
+    <td>
+      <p><img src="https://skillicons.dev/icons?i=androidstudio,flutter,firebase,sqlite" alt="Mobile" height="40" /></p>
+      Android · Flutter · Firebase · SQLite · Retrofit · Volley · Glide · Google Maps SDK
+    </td>
+  </tr>
+  <tr>
+    <td><b>Web and backend</b></td>
+    <td>
+      <p><img src="https://skillicons.dev/icons?i=react,angular,nodejs,express,sequelize,bootstrap,wordpress" alt="Web and backend" height="40" /></p>
+      React · Angular · Node.js · Express · Sequelize · Bootstrap · WordPress · REST APIs · MQTT
+    </td>
+  </tr>
+  <tr>
+    <td><b>Databases</b></td>
+    <td>
+      <p><img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" alt="Databases" height="40" /></p>
+      MySQL · PostgreSQL · SQLite · Oracle
+    </td>
+  </tr>
+  <tr>
+    <td><b>Cloud and infrastructure</b></td>
+    <td>
+      <p><img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,githubactions,linux,ubuntu,windows" alt="Cloud and infrastructure" height="40" /></p>
+      AWS · Azure · Google Cloud · Docker · Kubernetes · GitHub Actions · Linux · Ubuntu · Windows Server
+    </td>
+  </tr>
+  <tr>
+    <td><b>Tools and design</b></td>
+    <td>
+      <p><img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,xd,ps,ai,pr" alt="Tools and design" height="40" /></p>
+      Git · GitHub · Postman · VS Code · Figma · Adobe XD · Photoshop · Illustrator · Premiere Pro
+    </td>
+  </tr>
+  <tr>
+    <td><b>Security systems</b></td>
+    <td>CCTV and video surveillance · ANPR · Access control · Video intercom · Intrusion alarms · Smart parking · HikCentral · Dahua DSS · LAN/WAN/VLAN, VPN and firewall configuration</td>
+  </tr>
+</table>
 
 ## 📌 Featured projects
 
@@ -247,19 +301,12 @@ See all repositories on [GitHub](https://github.com/mwandotheboss?tab=repositori
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mwandotheboss&show_icons=true&hide_rank=true&locale=en&hide_border=true&theme=tokyonight" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=mwandotheboss&show_icons=true&hide_rank=true&locale=en&hide_border=true" alt="Zephania's GitHub stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mwandotheboss&show_icons=true&hide_rank=true&locale=en&hide_border=true&card_width=500&theme=tokyonight" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mwandotheboss&show_icons=true&hide_rank=true&locale=en&hide_border=true&card_width=500" alt="Zephania's GitHub stats" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=mwandotheboss&locale=en&layout=compact&hide_border=true&theme=tokyonight" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=mwandotheboss&locale=en&layout=compact&hide_border=true" alt="Zephania's most used languages" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=mwandotheboss&hide_border=true&theme=tokyonight" />
-    <img src="https://streak-stats.demolab.com/?user=mwandotheboss&hide_border=true" alt="Zephania's GitHub streak" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=mwandotheboss&locale=en&layout=compact&langs_count=8&hide=cmake,c%2B%2B,c,swift,objective-c&hide_border=true&card_width=500&theme=tokyonight" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mwandotheboss&locale=en&layout=compact&langs_count=8&hide=cmake,c%2B%2B,c,swift,objective-c&hide_border=true&card_width=500" alt="Zephania's most used languages" />
   </picture>
 </p>
 
