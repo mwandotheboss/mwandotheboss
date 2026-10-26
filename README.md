@@ -235,6 +235,12 @@ More at [mwando.ke/#portfolio](https://mwando.ke/#portfolio).
     <td align="center">1</td>
   </tr>
   <tr>
+    <td><a href="https://github.com/mwandotheboss/Hik-Connect-Integrations"><b>Hik-Connect-Integrations</b></a></td>
+    <td></td>
+    <td></td>
+    <td align="center">0</td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/mwandotheboss/HikCentral-Professional-Integrations"><b>HikCentral-Professional-Integrations</b></a></td>
     <td></td>
     <td></td>
@@ -250,12 +256,6 @@ More at [mwando.ke/#portfolio](https://mwando.ke/#portfolio).
     <td><a href="https://github.com/mwandotheboss/Dahua-DSS-Integration"><b>Dahua-DSS-Integration</b></a></td>
     <td>Integration with the Dahua DSS platform</td>
     <td>JavaScript</td>
-    <td align="center">0</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/mwandotheboss/Dahua-Access-Control-Attendance-Integrations"><b>Dahua-Access-Control-Attendance-Integrations</b></a></td>
-    <td>Access control and attendance integrations for Dahua devices</td>
-    <td>PHP</td>
     <td align="center">0</td>
   </tr>
 </table>
